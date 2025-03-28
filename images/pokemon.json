@@ -1,6 +1,5 @@
 {
-  "empty": "https://raw.githubusercontent.com/QuesitoCR/pokemon-letsgo-overlay/main/images/empty.png",
   "bulbasaur": "https://raw.githubusercontent.com/QuesitoCR/pokemon-letsgo-overlay/main/images/bulbasaur.png",
   "ivysaur": "https://raw.githubusercontent.com/QuesitoCR/pokemon-letsgo-overlay/main/images/ivysaur.png",
-  "pikachu": "https://raw.githubusercontent.com/QuesitoCR/pokemon-letsgo-overlay/main/images/pikachu.png"
+  "empty": "https://raw.githubusercontent.com/QuesitoCR/pokemon-letsgo-overlay/main/images/empty.png"
 }
